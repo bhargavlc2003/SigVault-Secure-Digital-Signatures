@@ -1,1 +1,1 @@
-# SigVault-Secure-Digital-SIgnatures
+# SigVault-Secure-Digital-Signatures
